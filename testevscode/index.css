@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(43, 43, 43);
+    text-align: center;
+}
+
+body h1{
+    color: aliceblue;
+    font-weight: bold;
+}
+
+body h3{
+    color: aliceblue;
+    font-weight: bold;
+}
+
+body table{
+    color: aliceblue;
+    font-size: larger;
+}
